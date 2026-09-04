@@ -73,7 +73,7 @@ export const AboutSection = () => {
               <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-4 relative z-10">GitHub Activity</h3>
               <div className="space-y-4 relative z-10">
                 <img 
-                  src="https://github-readme-stats.vercel.app/api?username=cuongnguyenphu2005&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&icon_color=8b5cf6" 
+                  src="https://github-readme-stats.vercel.app/api?username=cuongnp10&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&icon_color=8b5cf6" 
                   alt="GitHub Stats" 
                   className="w-full"
                 />
@@ -82,7 +82,7 @@ export const AboutSection = () => {
 
             <div className="bg-white dark:bg-slate-800 rounded-2xl p-6 shadow-xl border border-slate-200 dark:border-slate-700">
                <img 
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=cuongnguyenphu2005&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&icon_color=8b5cf6&date_format=j%20M%5B%20Y%5D" 
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=cuongnp10&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&icon_color=8b5cf6&date_format=j%20M%5B%20Y%5D" 
                   alt="GitHub Streak" 
                   className="w-full"
                 />

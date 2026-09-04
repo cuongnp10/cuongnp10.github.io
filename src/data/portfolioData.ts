@@ -16,7 +16,7 @@ export const portfolioData = {
     location: "Ho Chi Minh City, Vietnam",
     bio: "Software Engineering student at FPT University with a product-centric mindset and proven system design capabilities in Java and AI-driven environments. Dedicated to engineering scalable systems and mastering professional production workflows.",
     socials: {
-      github: "https://github.com/cuongnguyenphu2005",
+      github: "https://github.com/cuongnp10",
       linkedin: "https://linkedin.com/in/cuongnpfpt",
       upwork: "https://www.upwork.com"
     }
@@ -89,7 +89,7 @@ export const portfolioData = {
         "Integration with Playwright for robust browser automation"
       ],
       stack: ["JavaScript", "CodeceptJS", "Playwright"],
-      githubUrl: "https://github.com/cuongnguyenphu2005?tab=repositories" // Placeholder as precise repo was noted but no link
+      githubUrl: "https://github.com/cuongnp10?tab=repositories" // Placeholder as precise repo was noted but no link
     }
   ],
   skills: [

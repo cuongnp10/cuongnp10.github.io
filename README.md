@@ -19,8 +19,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/cuongnguyenphu2005/cuongnguyenphu2005.github.io.git
-   cd cuongnguyenphu2005.github.io
+   git clone https://github.com/cuongnp10/cuongnp10.github.io.git
+   cd cuongnp10.github.io
    ```
 
 2. **Install dependencies:**
@@ -42,5 +42,5 @@ This project uses a GitHub Actions CI/CD pipeline (`.github/workflows/deploy.yml
 ## Contact
 
 - **Email**: cuongnguyenphu2005@gmail.com
-- **GitHub**: [cuongnguyenphu2005](https://github.com/cuongnguyenphu2005)
+- **GitHub**: [cuongnp10](https://github.com/cuongnp10)
 - **LinkedIn**: [cuongnpfpt](https://linkedin.com/in/cuongnpfpt)
