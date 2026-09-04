@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Moon, Sun, Menu, X, Download } from 'lucide-react';
 import { portfolioData } from '../data/portfolioData';
 

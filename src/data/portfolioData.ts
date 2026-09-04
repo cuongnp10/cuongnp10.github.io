@@ -1,12 +1,8 @@
 import { 
-  Code2, 
   Database, 
   Globe, 
   Layout, 
   Server, 
-  Settings, 
-  Shield, 
-  Terminal, 
   Wrench,
   Bot
 } from 'lucide-react';

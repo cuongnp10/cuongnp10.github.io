@@ -1,6 +1,6 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
-import { Code2, Compass, Cpu, Layers } from 'lucide-react';
+import { Code2, Cpu, Layers } from 'lucide-react';
 
 export const AboutSection = () => {
   return (
